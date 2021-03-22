@@ -138,7 +138,7 @@ ui <- fluidPage(
 This example uses four new functions:
 
 -   `fluidPage()` is a **layout function** that sets up the basic visual structure of the page.
-    You'll learn more about them in Section \@ref(layout).
+    You'll learn more about layouts in Section \@ref(layout).
 
 -   `selectInput()` is an **input control** that lets the user interact with the app by providing a value.
     In this case, it's a select box with the label "Dataset" and lets you choose one of the built-in datasets that come with R.
