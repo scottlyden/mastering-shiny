@@ -328,7 +328,7 @@ This will make your code easier to understand.
 
 [^basic-reactivity-7]: The technical term for this ordering is a "topological sort".
 
-This concept is very important and different to most other R code, so I'll say it again: the order in which reactive code is run is determined only by the reactive graph, not by its layout in the server function.
+This concept is very important and different from most other R code, so I'll say it again: the order in which reactive code is run is determined only by the reactive graph, not by its layout in the server function.
 
 ### Exercises
 
